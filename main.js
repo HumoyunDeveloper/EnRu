@@ -89,7 +89,7 @@ function init() {
     
 
 
-    placeToDisplay.innerHTML = replaceYu;
+    placeToDisplay.innerHTML = replaceSh;
   }
 }
 
