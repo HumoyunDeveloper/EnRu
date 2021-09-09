@@ -85,7 +85,7 @@ function init() {
     var replaceYa = softVal.replace(/йа/gi, "я");
     var replaceYu = replaceYa.replace(/йу/gi, "ю");
     var replaceCh = replaceYu.replace(/сх/gi, "ч");
-    var replaceSh = replaceCh.replace(/сx/gi, "ш");
+    var replaceSh = replaceCh.replace(/sx/gi, "ш");
     
 
 
